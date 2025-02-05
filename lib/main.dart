@@ -46,6 +46,10 @@ void main() {
                 color: kColorScheme.onSecondaryContainer,
                 fontSize: 16))),
     themeMode: ThemeMode.system,
-    home: const Expenses(),
+    home:  Expenses(),
   ));
 }
+
+
+
+
